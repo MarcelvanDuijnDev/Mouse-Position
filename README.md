@@ -1,4 +1,4 @@
-### Mouse-Position V1.0
+### Mouse-Position v1.0
 
 A simple tool that shows the mouse position.
 
